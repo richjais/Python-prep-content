@@ -1,0 +1,14 @@
+Tree is a non-linear data structure, used for storing hierarchical data.
+
+There are various type of trees-
+o Binary Tree
+o n-Ary Tree
+o AVL Tree
+o Red Black Tree
+
+Binary Tree is a kind of tree where a node can have at most 2 child, and mostly used for search applications.
+
+Traversals in Binary Tree- Traversal names are decided based on the root location
+InOrder- Left ROOT Right
+PreOrder- ROOT Left Right
+PostOrder- Left Right ROOT
