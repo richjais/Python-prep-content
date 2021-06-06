@@ -1,10 +1,11 @@
 Largest Number in Array
-Game with nos (Xor of consecutive)
 Find minimum and maximum element in array
-Wave Array (a1 >= a2 <= a3 >= a4 <= a5.....)
-Sum of Array Elements
 Rotate Array
+Game with nos (Xor of consecutive)
+Wave Array (a1 >= a2 <= a3 >= a4 <= a5.....)
 Balanced Array
 Count of smaller elements
 Segregate 0s and 1s
-Fighting the darkness
+Kadane's Algorithm(Finds maximum sum from contiguous sub-array)
+
+
