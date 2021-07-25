@@ -1,0 +1,6 @@
+Sorting a list by two fields, both fields should be iterable then
+First Approach: using sorted() function with operator.itemgetter(i,j) to sort list by i-th element and then by j-th element.
+SYNTAX: sorted_list = sorted(arr, key = operator.itemgetter(1,0))
+
+Second Approach: using sorted() function with lambda expression
+SYNTAX: sorted_list = sorted(arr, key = lambda x: (x[1],x[0])) will sort list by 1st index element and then by 0th index element.
