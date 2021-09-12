@@ -9,4 +9,5 @@ Segregate 0s and 1s
 Kadane's Algorithm(Finds maximum sum from contiguous sub-array)
 Load Balancer (asked in Amazon OA)
 Top N Competitors (asked in Amazon OA)
-
+Search Insert Position (---return target index if already present in array else return insert position. 
+By binary search left and right pointer are automatically get adjusted if target not available in array, return left left will be the insert position---)
